@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lathorva.Common.Web", "Lathorva.Common.Web\Lathorva.Common.Web.csproj", "{D90352FA-9D73-471A-9C80-7856E7395B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90352FA-9D73-471A-9C80-7856E7395B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90352FA-9D73-471A-9C80-7856E7395B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90352FA-9D73-471A-9C80-7856E7395B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90352FA-9D73-471A-9C80-7856E7395B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6779431C-304C-4E57-8028-D270891D2F91}
+	EndGlobalSection
+EndGlobal
